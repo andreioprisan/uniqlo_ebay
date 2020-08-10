@@ -23,7 +23,7 @@ Code is in `uniqlo_2_wrangling.ipynb`.
 ## 3) Dashboard Creation
 During the summer of 2019, the KAWS shirt line was a hit: the sold out stores made numerous articles with sensational headlines on the web. This dashboard captures trends and characteristics of sold listings with a focus on relative comparison between KAWS vs. non-KAWS shirts. 
 
-Findings are in `uniqlo_3_dashboard.md`. Dashboard is found at the link here: https://public.tableau.com/profile/edward.shiang#!/vizhome/UniqloKAWSEbayDashboard/KawsDash 
+Description is in `uniqlo_3_dashboard.md`. **Dashboard is found at the link here: https://public.tableau.com/profile/edward.shiang#!/vizhome/UniqloKAWSEbayDashboard/KawsDash**
 
 ## 4) Data Exploration
 Here, certain features of the data were investigated through constructing various summary tables and graphs. These insights were then incorporated in the regression models constructed in the following section. 
