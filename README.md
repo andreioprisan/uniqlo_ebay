@@ -1,3 +1,5 @@
+# Descriptive and Predictive Analytics for Sold eBay Uniqlo Shirts 
+
 In this project, the focus areas were as follows:
 * Web scraping eBay's search results page
 * Investigating unique characteristics of sold KAWS shirts on eBay with respect to those from other Uniqlo lines
