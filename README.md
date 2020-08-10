@@ -13,6 +13,7 @@ First, data was scraped from eBay's website. The scraper used in the notebook ex
 Code is in `uniqlo_1_scraping.ipynb`.
 
 
+
 ## 2) Data Wrangling
 Then, numerous procedures involving data cleaning, variable addition, and missing transaction time approximation for the scraped data was executed. After these were executed, the final data was filtered to only be shirts sold between the months of May and July: this was then outputted as an Excel file.
 
