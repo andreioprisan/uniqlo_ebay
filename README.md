@@ -25,12 +25,12 @@ During the summer of 2019, the KAWS shirt line was a hit: the sold out stores ma
 
 Description is in `uniqlo_3_dashboard.md`. **Dashboard is found at the link below: https://public.tableau.com/profile/edward.shiang#!/vizhome/UniqloKAWSEbayDashboard/KawsDash**
 
-## 4) Data Exploration
+## 4) Data Exploration (WIP)
 Here, certain features of the data were investigated through constructing various summary tables and graphs. These insights were then incorporated in the regression models constructed in the following section. 
 
 Code and findings are in `uniqlo_4_eda.ipynb`.
 
-## 5) Predictive Analytics
+## 5) Predictive Analytics (WIP)
 Finally, various regression models for predicting an order price given specific characteristics of the sold listing were constructed, tuned, and relatively compared. Then, additional findings were presented after selecting a specific model from the candidates and leveraging its interpretablility capabilities.
 
 Code and findings are in `uniqlo_5_model.ipynb`.
