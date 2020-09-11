@@ -1,5 +1,4 @@
 # Dashboard
-![](https://raw.githubusercontent.com/eshiang21/uniqlo_ebay/master/kaws_ebay_dash.png)
 
 The Uniqlo eBay Dashboard displays a variety of numbers, graphs, and tables on the sold shirt listings from 5/2020 to 7/2020. Here is a brief description of its specific features and findings pertaining to the entire duration available:
 * To the right of the title, there exists a date slider. This may be manually adjusted so that the numbers, graphs, and tables on the dashboard represent the listings data within the time frame.
@@ -24,3 +23,4 @@ The Uniqlo eBay Dashboard displays a variety of numbers, graphs, and tables on t
 
 It is important to note that different time frames set by the sliding filter may alter the results presented above. Nevertheless, it appears that overall speaking, KAWS listings sell at higher price points (net AOV) and spark slightly more interest among consumers (number of bids) than non-KAWS listings. While KAWS shirts made up of only ~26% of the 4,500 sold Uniqlo shirt listings over the summer, it is apparent that they are very much in-demand and are considered quite valuable to purchase.
 
+![](https://raw.githubusercontent.com/eshiang21/uniqlo_ebay/master/kaws_ebay_dash.png)
