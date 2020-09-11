@@ -1,5 +1,5 @@
 # Dashboard
-
+![dash](file:///Users/eddieshiang/Desktop/kaws_ebay_dash.png)
 
 The Uniqlo eBay Dashboard displays a variety of numbers, graphs, and tables on the sold shirt listings from 5/2020 to 7/2020. Here is a brief description of its specific features and findings pertaining to the entire duration available:
 * To the right of the title, there exists a date slider. This may be manually adjusted so that the numbers, graphs, and tables on the dashboard represent the listings data within the time frame.
